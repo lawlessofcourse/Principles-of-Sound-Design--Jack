@@ -10,7 +10,7 @@ October 4th, 2018
 ## Polar Patterns
  **Polar Patterns** - Directional patterns in space represent how the microphone can "hear" the sound around it. Polar Pattern diagrams are usually represented in a circular grid with the mic in the center axis. Each mic will have its own unique shape, based on three basic directional characteristics, **Omnidirectional**, **Bidirectional**, and **Unidirectional**.
 * **Omnidirectional** mics capture sound the all around the mic. Also called nondirectional mics.
-* **Unidirectional** mics capture sound from the front only. These directional mics can be broken down into their level of directional characteristics based on their heart-shaped pattern; cardioid, supercardioid and hypercardioid.
+* **Unidirectional** mics capture sound from the front only. These directional mics can be broken down into their level of directional characteristics based on their heart-shaped pattern; cardioid, supercardioid and hypercardioid. 
 * **Bidirectional** mics capture sound from two sides of the mic capsule, typically front and rear. Ribbon transducers are always bidirectional due to the ribbon being open on the front and back of the mic. It is important to note that bidirectional and stereo are not interchangeable terms. Stereo techniques use two mics or capsules to create a stereo image of sound from discrete left and right channels. Stereo techniques will be covered in greater detail in Session 6 - Studio Recording.
 
 ## Sound Response
